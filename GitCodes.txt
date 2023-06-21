@@ -28,3 +28,7 @@ git checkout "branches" : Troca de branches
 git branch : Visualização dos branches
 
 git merge *nome do branche : Junta o branche atual com o selecionado
+
+git config --global user.email "you@example.com" 
+
+git config --global user.name "Your Name"
