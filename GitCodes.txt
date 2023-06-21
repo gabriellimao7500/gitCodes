@@ -29,6 +29,6 @@ git branch : Visualização dos branches
 
 git merge *nome do branche : Junta o branche atual com o selecionado
 
-git config --global user.email "you@example.com" 
+git config --global user.email "gabriellimao7500@gmail.com" 
 
-git config --global user.name "Your Name"
+git config --global user.name "gabriellimao7500"
