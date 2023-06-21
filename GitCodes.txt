@@ -1,0 +1,30 @@
+
+Na barra do vscode:
+
+git remote add origin https://github.com/gabriellimao7500/gitCodes.git
+git branch -M main
+git push -u origin main
+
+No bash:
+
+git clone https://github.com/gabriellimao7500/gitCodes.git
+
+Git:
+
+git status : Visualização dos status
+
+git add . 
+
+git commite -a -m "comentario"
+
+git push
+
+git pull
+
+git checkout -b "branches" criação de branches na maquina local / quando for usado o push em um branche q n existe ele te dara o codigo para criar no servidor
+
+git checkout "branches" : Troca de branches
+
+git branch : Visualização dos branches
+
+git merge *nome do branche : Junta o branche atual com o selecionado
