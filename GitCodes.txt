@@ -15,7 +15,7 @@ git status : Visualização dos status
 
 git add . 
 
-git commite -a -m "comentario"
+git commit -a -m "comentario"
 
 git push
 
